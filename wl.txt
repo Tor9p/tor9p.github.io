@@ -1,1 +1,2 @@
-/ 
+# profile-title: Мои сервера
+# profile-update-interval: 24
